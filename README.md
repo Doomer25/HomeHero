@@ -9,7 +9,9 @@ HomeHero is a community-based platform that helps residents in small towns easil
 ## Team Members
 
 Brahmesh Gawas (tech lead)
+
 Hari Melge
+
 Anish Painginkar
 
 ---
